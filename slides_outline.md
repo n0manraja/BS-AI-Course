@@ -2,7 +2,7 @@
 
 ## Slide 1: Title
 - Artificial Intelligence – Lecture 1
-- BS AI (Semester 3)
+- BS AI (Semester 2nd)
 
 ## Slide 2: Course Information
 - Credit Hours
